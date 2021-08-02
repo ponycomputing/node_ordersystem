@@ -1,7 +1,7 @@
 {
   "name": "deliverysystem",
   "version": "1.0.0",
-  "description": "这是小小订餐系统，是我们学习MVC的第一个项目",
+  "description": "this is oder system, first MVC project",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
